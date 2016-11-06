@@ -7,8 +7,8 @@ class Layout extends React.Component {
     render() {
         return (
             <div>
-                <h1>Hello World! Camilo here!</h1>
-                <h2>Can you belive?</h2>
+                <h1>Hello World!</h1>
+                <h2>It is running. Update client.js to see live update, without refreshing the browser</h2>
             </div>
         );
     }
