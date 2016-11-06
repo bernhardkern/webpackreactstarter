@@ -1,0 +1,39 @@
+{
+  "name": "reactyoutube",
+  "version": "1.0.0",
+  "description": "react from the youtube tutorial https://www.youtube.com/watch?v=MhkGQAoc7bc\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C h\u001b[C\u001b[D\u001b[D \u001b[Dht",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "watch": "webpack-dev-server --hot --inline --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "localhost://cygdrive/c/gits/reactyoutube"
+  },
+  "keywords": [
+    "react",
+    "youtube"
+  ],
+  "author": "Bernhard Kern",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-plugin-react-html-attrs": "^2.0.0",
+    "babel-plugin-transform-class-properties": "^6.18.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "devDependencies": {
+    "css-loader": "^0.25.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
