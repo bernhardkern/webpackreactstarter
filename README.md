@@ -1,10 +1,11 @@
 # webpackreactstarter
-this is a simple project that integrates webpack and react. It also uses babel to use modern es2015 features in all browsers
-
-to start:
-1. npm install
-2. npm run watch
-3. open browser: http://localhost:3000
+this is a simple project that integrates webpack and react. It also uses babel to enable modern es2015 features in all browsers.
+<p>
+<b>Quickstart:</b><br />
+1. npm install<br />
+2. npm run watch<br />
+3. open browser: http://localhost:3000 <br />
+</p>
 
 Technologies used:
 React, 
